@@ -1,0 +1,5 @@
+{
+  "tests/test_commands.py::test_tag_creates_new_tag": true,
+  "tests/test_commands.py::test_sprout_creates_branch_file": true,
+  "tests/test_commands.py::test_drift_updates_head_to_pulse": true
+}
