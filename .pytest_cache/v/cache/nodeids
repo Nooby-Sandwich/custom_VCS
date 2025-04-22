@@ -1,0 +1,23 @@
+[
+  "tests/test_commands.py::test_drift_updates_HEAD_with_direct_id",
+  "tests/test_commands.py::test_drift_updates_head_to_pulse",
+  "tests/test_commands.py::test_echo_executes_without_error",
+  "tests/test_commands.py::test_echo_runs_and_reports_latest_pulse",
+  "tests/test_commands.py::test_graft_merges_branch_history_without_error",
+  "tests/test_commands.py::test_graft_merges_branch_without_error",
+  "tests/test_commands.py::test_pulse_creates_snapshot",
+  "tests/test_commands.py::test_pulse_writes_json_and_appends_message",
+  "tests/test_commands.py::test_ripple_prints_history",
+  "tests/test_commands.py::test_ripple_runs_without_crashing",
+  "tests/test_commands.py::test_roots_executes_without_error",
+  "tests/test_commands.py::test_roots_runs_without_crashing",
+  "tests/test_commands.py::test_seed_creates_repo_structure",
+  "tests/test_commands.py::test_seed_initializes_repo_structure",
+  "tests/test_commands.py::test_sprout_creates_branch_file",
+  "tests/test_commands.py::test_sprout_creates_branch_file_and_contains_pulse",
+  "tests/test_commands.py::test_sprout_creates_branch_file_and_contains_pulses",
+  "tests/test_commands.py::test_tag_creates_new_tag",
+  "tests/test_commands.py::test_tag_creates_tags_json_with_key_and_message",
+  "tests/test_commands.py::test_write_util_functions",
+  "tests/test_commands.py::test_write_utilities_overwrite_files"
+]
