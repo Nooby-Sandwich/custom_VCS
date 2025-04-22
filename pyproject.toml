@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wen-vcs"
+version = "0.1.0"
+description = "A Git-like VCS built with Python"
+dependencies = [
+  "requests",
+]
+
+[project.scripts]
+wen = "wen:main"
